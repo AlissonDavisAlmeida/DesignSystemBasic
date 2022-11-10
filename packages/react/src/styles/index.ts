@@ -1,4 +1,4 @@
-import { colors, fonts, fontSizes, fontWeights, lineHeights, radii, space } from "@smart-dev__ui/tokens"
+import { colors, fonts, fontSizes, fontWeights, lineHeights, radii, space } from "@smart-dev_ui/tokens"
 import { createStitches, defaultThemeMap } from "@stitches/react"
 
 export const {

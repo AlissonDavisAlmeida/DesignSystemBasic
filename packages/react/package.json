@@ -1,6 +1,6 @@
 {
-  "name": "@smart-dev__ui/react",
-  "version": "1.0.0",
+  "name": "@smart-dev_ui/react",
+  "version": "2.0.0",
   "license": "MIT",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
@@ -10,9 +10,9 @@
     "dev": "tsup src/index.tsx --format cjs,esm --dts --watch --external react,react-dom"
   },
   "devDependencies": {
-    "@smart-dev__ui/eslint-config": "*",
-    "@smart-dev__ui/tokens": "*",
-    "@smart-dev__ui/ts-config": "*",
+    "@smart-dev_ui/eslint-config": "*",
+    "@smart-dev_ui/tokens": "*",
+    "@smart-dev_ui/ts-config": "*",
     "@types/react": "^18.0.23",
     "@types/react-dom": "^18.0.7",
     "react": "^18.2.0",

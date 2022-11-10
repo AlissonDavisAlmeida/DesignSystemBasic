@@ -1,5 +1,5 @@
 {
-  "name": "@smart-dev__ui/docs",
+  "name": "@smart-dev_ui/docs",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -27,10 +27,10 @@
     "vite": "^3.2.0"
   },
   "dependencies": {
-    "@smart-dev__ui/eslint-config": "*",
-    "@smart-dev__ui/react": "*",
-    "@smart-dev__ui/tokens": "*",
-    "@smart-dev__ui/ts-config": "*",
+    "@smart-dev_ui/eslint-config": "*",
+    "@smart-dev_ui/react": "*",
+    "@smart-dev_ui/tokens": "*",
+    "@smart-dev_ui/ts-config": "*",
     "@storybook/addon-a11y": "^6.5.13",
     "polished": "^4.2.2",
     "react": "^18.2.0",

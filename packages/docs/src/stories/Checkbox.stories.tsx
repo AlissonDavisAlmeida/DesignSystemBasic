@@ -1,4 +1,4 @@
-import { Box, CheckBox, Text, CheckBoxProps } from "@smart-dev__ui/react"
+import { Box, CheckBox, Text, CheckBoxProps } from "@smart-dev_ui/react"
 import { StoryObj, Meta } from "@storybook/react"
 
 

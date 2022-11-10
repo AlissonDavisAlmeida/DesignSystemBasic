@@ -1,4 +1,4 @@
-import { Box, Text, TextInput, TextInputProps } from "@smart-dev__ui/react"
+import { Box, Text, TextInput, TextInputProps } from "@smart-dev_ui/react"
 import { StoryObj, Meta } from "@storybook/react"
 
 

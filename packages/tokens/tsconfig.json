@@ -1,5 +1,5 @@
 {
-  "extends": "@smart-dev__ui/ts-config/base.json",
+  "extends": "@smart-dev_ui/ts-config/base.json",
   "include": [
     "src"
   ],

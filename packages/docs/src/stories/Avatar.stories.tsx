@@ -1,4 +1,4 @@
-import { Avatar, AvatarProps } from "@smart-dev__ui/react"
+import { Avatar, AvatarProps } from "@smart-dev_ui/react"
 import { StoryObj, Meta } from "@storybook/react"
 
 

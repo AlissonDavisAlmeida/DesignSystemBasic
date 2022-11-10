@@ -1,4 +1,4 @@
-import { colors } from "@smart-dev__ui/tokens"
+import { colors } from "@smart-dev_ui/tokens"
 import { getContrast } from "polished"
 
 export const ColorsGrid = () => {

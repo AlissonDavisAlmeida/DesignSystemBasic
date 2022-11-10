@@ -1,4 +1,4 @@
-import { Text, TextProps } from "@smart-dev__ui/react"
+import { Text, TextProps } from "@smart-dev_ui/react"
 import { StoryObj, Meta } from "@storybook/react"
 
 

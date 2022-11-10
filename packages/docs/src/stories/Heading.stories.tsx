@@ -1,4 +1,4 @@
-import { HeadingProps, Heading } from "@smart-dev__ui/react"
+import { HeadingProps, Heading } from "@smart-dev_ui/react"
 import { StoryObj, Meta } from "@storybook/react"
 
 
