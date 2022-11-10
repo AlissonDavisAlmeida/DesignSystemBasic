@@ -1,0 +1,2 @@
+import{H as r}from"./index.e7121ab5.js";import"./index.420a6994.js";import"./iframe.7b446687.js";import"./index.702b0b2f.js";import"./jsx-runtime.ba17473b.js";const i={title:"Typograph/Heading",component:r,args:{children:"Test component Heading"}},s={args:{}},p={args:{},parameters:{docs:{description:{story:"# Heading component"}}}},d=["Primary","Secondary"];export{s as Primary,p as Secondary,d as __namedExportsOrder,i as default};
+//# sourceMappingURL=Heading.stories.16693768.js.map

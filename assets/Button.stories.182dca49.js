@@ -1,0 +1,2 @@
+import{a as r}from"./index.e7121ab5.js";import"./index.420a6994.js";import"./iframe.7b446687.js";import"./index.702b0b2f.js";import"./jsx-runtime.ba17473b.js";const e={title:"Form/Button",component:r,args:{children:"Button"},argTypes:{variant:{options:["primary","secondary","tertiary"],control:{type:"inline-radio"}},onClick:{action:"clicked"}}},m={args:{variant:"primary"}},p=["Primary"];export{m as Primary,p as __namedExportsOrder,e as default};
+//# sourceMappingURL=Button.stories.182dca49.js.map
