@@ -1,0 +1,3 @@
+{
+    "extends": "@smart-dev__ui/eslint-config"
+}

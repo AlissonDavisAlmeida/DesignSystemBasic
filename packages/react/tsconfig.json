@@ -1,0 +1,6 @@
+{
+  "extends": "@smart-dev__ui/ts-config/react.json",
+  "include": [
+    "src"
+  ],
+}

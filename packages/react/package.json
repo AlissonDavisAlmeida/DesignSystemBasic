@@ -1,0 +1,28 @@
+{
+  "name": "@smart-dev__ui/react",
+  "version": "1.0.0",
+  "license": "MIT",
+  "main": "dist/index.js",
+  "module": "dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "build": "tsup src/index.tsx --format cjs,esm --dts --external react,react-dom",
+    "dev": "tsup src/index.tsx --format cjs,esm --dts --watch --external react,react-dom"
+  },
+  "devDependencies": {
+    "@smart-dev__ui/eslint-config": "*",
+    "@smart-dev__ui/tokens": "*",
+    "@smart-dev__ui/ts-config": "*",
+    "@types/react": "^18.0.23",
+    "@types/react-dom": "^18.0.7",
+    "react": "^18.2.0",
+    "tsup": "^6.3.0",
+    "typescript": "^4.8.4"
+  },
+  "dependencies": {
+    "@radix-ui/react-avatar": "^1.0.1",
+    "@radix-ui/react-checkbox": "^1.0.1",
+    "@stitches/react": "^1.2.8",
+    "phosphor-react": "^1.4.1"
+  }
+}
