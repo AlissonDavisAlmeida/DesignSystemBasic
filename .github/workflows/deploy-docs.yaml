@@ -24,7 +24,7 @@ jobs:
         run: npm run build
         env:
           TURBO_TOKEN: f58kdBVUAQLfibYbPGg1C4tS
-          
+          TURBO_TEAM: smart-dev
 
       - name: Deploy
         working-directory: ./packages/docs
